@@ -1,4 +1,4 @@
-[<img src="https://github.com/ammy20019/ammy20019/blob/main/bg.jpeg" alt="👋 Hi there! I'm Amit)" title="Bonjour! Je suis Amit 👋"/>]
+### Bonjour! Je suis Amit 👋
 
 - 🔭 I’m currently working on twitter sentiment analysis.
 - 🌱 I’m currently learning machine learning.
