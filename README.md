@@ -1,4 +1,5 @@
-### Bonjour! Je suis Amit 👋
+
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Amit)" title="Bonjour! Je suis Amit 👋"/>](https://raymond.li/)
 
 - 🔭 I’m currently working on twitter sentiment analysis.
 - 🌱 I’m currently learning machine learning.
