@@ -1,5 +1,4 @@
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Amit)" title="Bonjour! Je suis Amit 👋"/>](https://raymond.li/)
+[<img src="https://github.com/ammy20019/ammy20019/blob/main/bg.jpeg" alt="👋 Hi there! I'm Amit)" title="Bonjour! Je suis Amit 👋"/>]
 
 - 🔭 I’m currently working on twitter sentiment analysis.
 - 🌱 I’m currently learning machine learning.
