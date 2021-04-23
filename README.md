@@ -1,6 +1,5 @@
 ### Bonjour! Je suis Amit 👋
 
-- 🔭 I’m currently working on twitter sentiment analysis.
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on linkedin.
 - 🤔 I’m looking for help with live databases config.
