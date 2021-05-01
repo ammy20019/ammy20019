@@ -1,4 +1,4 @@
-### Bonjour! Je suis Amit 👋
+### Heyya!! Amit here 👋
 
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on linkedin.
