@@ -1,4 +1,8 @@
-### Heyya!! Amit here 👋
+### Heyya👋
+
+I’m Amit, a 3rd year student in the field of software engineering. I spend my whole day, practically every day, experimenting with some web and data science technologies and inhaling a wide variety of potentially useless information through a few hundred social media feeds.
+
+#### More about me!
 
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on linkedin.
