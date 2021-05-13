@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning machine learning.
 - 👯 I’m looking to collaborate on linkedin.
-- 🤔 I’m looking for help with live databases config.
+- 🤔 I’m looking for help with ML Deployment models.
 - 💬 Ask me about web development, ui/ux , data science, machine learning.
 - 📫 How to reach me: Instagram - @amitsahu.official
 - 😄 Pronouns: He/His
