@@ -17,6 +17,6 @@ I’m Amit, a 3rd year student in the field of software engineering. I spend my 
 <a href =https://www.linkedin.com/in/amit-kumar-sahu-7aab19169 target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg height='30' weight='30'/></a> 
 <a href = https://www.facebook.com/amitksahu.official target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg height='30' weight='30'/>
 <a href = https://www.instagram.com/amitsahu.official/ target='blank'> <img src=https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg height='30' weight='30'/></a>
-<p align = "center" > Number of visits <br> 
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=ammy20019&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
