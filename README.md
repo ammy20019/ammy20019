@@ -4,7 +4,7 @@ I’m Amit, a 3rd year student in the field of software engineering. I spend my 
 
 #### More about me!
 
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning nodejs with mongodb.
 - 👯 I’m looking to collaborate on linkedin.
 - 🤔 I’m looking for help with ML Deployment models.
 - 💬 Ask me about web development, ui/ux , data science, machine learning.
