@@ -1,10 +1,9 @@
 ### G'day Mate 👋
 
-I’m Amit, a 3rd year student in the field of software engineering at VIT. I spend my whole day, practically every day, experimenting with some web and data science technologies and inhaling a wide variety of potentially useless information through a few hundred social media feeds.
+I’m Amit, a 4th year student in the field of software engineering at VIT. I spend my whole day, practically every day, experimenting with some web and data science technologies and inhaling a wide variety of potentially useless information through a few hundred social media feeds.
 
 ### More about me!
 
-- 🌱 I’m currently learning MERN stack.
 - 👯 I’m looking to collaborate on linkedin.
 - 🤔 I’m looking for help with ML Deployment models.
 - 💬 Ask me about web development, ui/ux , data science, machine learning.
