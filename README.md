@@ -8,7 +8,7 @@ I’m Amit, persuing Integrated M.Tech in Software Engineering at VIT. I spend m
 - 🤔 I’m looking for help with ML Deployment models.
 - 💬 Ask me about web development, ui/ux , data science, machine learning.
 - 😄 Pronouns: He/His
-- 💼 Portfolio website: www.amatrix.42web.io/Personal
+- 💼 Portfolio website: <a href="www.amatrix.42web.io/Personal">Here</a>
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be Resident Evil.
 
 ### Connect with me!
@@ -27,7 +27,7 @@ I’m Amit, persuing Integrated M.Tech in Software Engineering at VIT. I spend m
   
 <a href="https://github.com/ammy20019">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ammy20019&layout=compact&theme=radical" />
-</a><br>
+</a><br><br>
 
 ![](https://komarev.com/ghpvc/?username=ammy20019&amp;label=PROFILE+VIEWS)
 
