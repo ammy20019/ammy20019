@@ -5,10 +5,9 @@ I’m Amit, persuing Integrated M.Tech in Software Engineering at VIT. I spend m
 ### More about me!
 
 - 👯 I’m looking to collaborate on linkedin.
-- 🤔 I’m looking for help with ML Deployment models.
-- 💬 Ask me about web development, ui/ux , data science, machine learning.
+- 💬 Ask me about web development, ui/ux , data science, machine learning, movie reviews, psychology.
 - 😄 Pronouns: He/His
-- 💼 Portfolio website: <a href="www.amatrix.42web.io/Personal">Here</a>
+- 💼 Portfolio website: <a href="http://www.amatrix.42web.io/Personal">Here</a>
 - ⚡ Fun fact: If I had to be trapped in a movie or a video game for a day, it would be Resident Evil.
 
 ### Connect with me!
