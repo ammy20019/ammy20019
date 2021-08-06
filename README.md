@@ -20,3 +20,14 @@ I’m Amit, persuing Integrated M.Tech in Software Engineering at VIT. I spend m
 <!--   </p> -->
 
 <img src="https://github-readme-stats.vercel.app/api?username=ammy20019&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammy20019&theme=monokai&show_icons=true" />
+  </div>   -->
+  
+<a href="https://github.com/ammy20019">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ammy20019&layout=compact&theme=radical" />
+</a><br>
+
+![](https://komarev.com/ghpvc/?username=ammy20019&amp;label=PROFILE+VIEWS)
+
