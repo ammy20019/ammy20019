@@ -1,6 +1,6 @@
 ### G'day Mate 👋
 
-I’m Amit, persuing Integrated M.Tech in Software Engineering at VIT. I spend my whole day, practically every day, experimenting with some web and data science technologies and inhaling a wide variety of potentially useless information through a few hundred social media feeds.
+I’m Amit, ummm.. a homosapien. I spend my whole day, practically every day, experimenting with some web and data science technologies and inhaling a wide variety of potentially useless information through a few hundred social media feeds.
 
 ### More about me!
 
