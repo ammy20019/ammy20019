@@ -8,6 +8,7 @@ I’m Amit, a homosapien. I spend my whole day, practically every day, experimen
 - 💬 Ask me about web development, ui/ux , data science, machine learning, movie reviews, psychology.
 - 😄 Pronouns: He/His
 - 💼 Portfolio website: <a href="http://www.amatrix.42web.io/Personal">Here</a>
+- 💻 https://www.hackerrank.com/johnamit20
 
 ### Connect with me!
 <!-- <p align = "center"> -->
